@@ -1,5 +1,6 @@
 Link to JIRA/Incident
-Breif description of changes proposed (Optional if PR is related to a complete JIRA task)
+
+Description of changes proposed (Optional if PR is related to a complete JIRA task)
 
 
 ## Checklist
