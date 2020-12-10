@@ -1,7 +1,10 @@
-Link to JIRA or Incident
-Description of changes proposed (If JIRA/Incident has enough info omit this)
+Link to JIRA/Incident
+Breif description of changes proposed (Optional if PR is related to a complete JIRA task)
 
-- [] Testcases added
-- [] Local build passed
+
+## Checklist
+- [ ] Unit Tests
+- [ ] Documentation(Applicable for APIs)
+- [ ] Local build
 
 @mentions of people responsible for reviewing proposed changes
